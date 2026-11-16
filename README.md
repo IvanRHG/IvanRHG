@@ -53,6 +53,5 @@ I'm interested in remote work in **AI response evaluation, data annotation, mult
 
 ### Contact
 
-- LinkedIn: *add your profile URL*
-- Email: *add a professional email*
 - GitHub: [@IvanRHG](https://github.com/IvanRHG)
+- Open to remote opportunities. Feel free to reach out through GitHub.
