@@ -1,6 +1,6 @@
 # Ivan · Systems Engineering Student
 
-Systems Engineering student at **Universidad Industrial de Santander (UIS)**, Colombia, in the 7th of 10 semesters. I work in **Spanish (native), English (B2), and French (B1)**.
+Systems Engineering student at **Universidad Industrial de Santander (UIS)**, Colombia, in the 8th of 10 semesters. I work in **Spanish (native), English (B2), and French (B1)**.
 
 I'm interested in remote work in **AI response evaluation, data annotation, multilingual content quality, and data processing with Python**. The projects below show how I approach that work: written criteria, verified claims, and reproducible results.
 
