@@ -54,4 +54,5 @@ I'm interested in remote work in **AI response evaluation, data annotation, mult
 ### Contact
 
 - GitHub: [@IvanRHG](https://github.com/IvanRHG)
+- E-mail: Ivanrherrerag9@gmail.com
 - Open to remote opportunities. Feel free to reach out through GitHub.
